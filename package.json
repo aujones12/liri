@@ -1,0 +1,22 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aujones12/liri.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Austin Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aujones12/liri/issues"
+  },
+  "homepage": "https://github.com/aujones12/liri#readme"
+}
